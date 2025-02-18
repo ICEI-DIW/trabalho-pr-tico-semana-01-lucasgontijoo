@@ -3,11 +3,13 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Lucas Gontijo da Cunha
+Matricula: 890627
 
 ## Tela de inspeção com navegador
+![Teste de inspeção](\teste.png)
 
 
 ## Tela de projeto no Replit
+![Olá mundo](\hello.png)
 
