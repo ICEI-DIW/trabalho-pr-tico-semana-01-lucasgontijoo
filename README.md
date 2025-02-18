@@ -7,9 +7,9 @@ Nome: Lucas Gontijo da Cunha
 Matricula: 890627
 
 ## Tela de inspeção com navegador
-![Teste de inspeção](\teste.png)
+![Teste de inspeção](teste.png)
 
 
 ## Tela de projeto no Replit
-![Olá mundo](\hello.png)
+![Olá mundo](hello.png)
 
